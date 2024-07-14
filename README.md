@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [zenn](https://zenn.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QxpoXq&show_icons=true&locale=en&layout=compact" alt="QxpoXq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QxpoXq&show_icons=true&locale=en" alt="QxpoXq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QxpoXq&" alt="QxpoXq" /></p>
 

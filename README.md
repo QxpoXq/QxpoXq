@@ -1,13 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Po 😃
 
-<!--
-**QxpoXq/QxpoXq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on NOTHING
+- 🌱 I’m currently learning Python 
+<!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -20,9 +16,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
-
-<h1 align="center">Hi 👋, I'm PO</h1>
-<h3 align="center">A learner of Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20views&color=0e75b6&style=flat" alt="hoge" /> </p>
 <p align="left"> <a href="https://twitter.com/hoge" target="blank"><img src="https://img.shields.io/twitter/follow/自分のアカウント名?logo=twitter&style=for-the-badge" /></a> </p>

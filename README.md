@@ -18,7 +18,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QxpoXq&label=Profile%20views&color=0e75b6&style=flat" alt="QxpoXq" /> </p>
-<p align="left"> <a href="https://twitter.com/hoge" target="blank"><img src="https://img.shields.io/twitter/follow/自分のアカウント名?logo=twitter&style=for-the-badge" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Wanna_learn_" target="blank"><img src="https://img.shields.io/twitter/follow/Po?logo=twitter&style=for-the-badge" /></a> </p>
 
 - 📝 I regularly write articles on [zenn](https://zenn.dev)
 
